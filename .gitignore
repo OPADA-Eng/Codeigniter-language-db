@@ -26,3 +26,5 @@ application/models/index.html
 application/helpers/index.html
 application/controllers/index.html
 application/index.html
+.project
+application/.htaccess
