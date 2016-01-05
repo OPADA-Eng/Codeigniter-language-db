@@ -22,3 +22,7 @@ application/logs
 application/third_party
 system
 index.php
+application/models/index.html
+application/helpers/index.html
+application/controllers/index.html
+application/index.html
